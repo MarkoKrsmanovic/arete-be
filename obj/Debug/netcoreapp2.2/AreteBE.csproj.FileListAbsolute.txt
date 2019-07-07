@@ -1,0 +1,14 @@
+C:\Users\Marko\Documents\Github\AreteBE\bin\Debug\netcoreapp2.2\AreteBE.deps.json
+C:\Users\Marko\Documents\Github\AreteBE\bin\Debug\netcoreapp2.2\AreteBE.runtimeconfig.json
+C:\Users\Marko\Documents\Github\AreteBE\bin\Debug\netcoreapp2.2\AreteBE.runtimeconfig.dev.json
+c:\Users\Marko\Documents\Github\AreteBE\bin\Debug\netcoreapp2.2\AreteBE.dll
+c:\Users\Marko\Documents\Github\AreteBE\bin\Debug\netcoreapp2.2\AreteBE.pdb
+c:\Users\Marko\Documents\Github\AreteBE\obj\Debug\netcoreapp2.2\AreteBE.csprojAssemblyReference.cache
+c:\Users\Marko\Documents\Github\AreteBE\obj\Debug\netcoreapp2.2\AreteBE.csproj.CoreCompileInputs.cache
+c:\Users\Marko\Documents\Github\AreteBE\obj\Debug\netcoreapp2.2\AreteBE.RazorAssemblyInfo.cache
+c:\Users\Marko\Documents\Github\AreteBE\obj\Debug\netcoreapp2.2\AreteBE.RazorAssemblyInfo.cs
+c:\Users\Marko\Documents\Github\AreteBE\obj\Debug\netcoreapp2.2\AreteBE.AssemblyInfoInputs.cache
+c:\Users\Marko\Documents\Github\AreteBE\obj\Debug\netcoreapp2.2\AreteBE.AssemblyInfo.cs
+c:\Users\Marko\Documents\Github\AreteBE\obj\Debug\netcoreapp2.2\AreteBE.RazorTargetAssemblyInfo.cache
+c:\Users\Marko\Documents\Github\AreteBE\obj\Debug\netcoreapp2.2\AreteBE.dll
+c:\Users\Marko\Documents\Github\AreteBE\obj\Debug\netcoreapp2.2\AreteBE.pdb
